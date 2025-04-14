@@ -74,7 +74,7 @@ const Features = () => {
                     <BentoCard
                         src="videos/feature-1.mp4"
                         title={<>radia<b>n</b>t</>}
-                        description={'A cross-platform metagame app, <br /> turning your activities across Web2 and Web3 games into a rewarding adventure.'}
+                        description={<>A cross-platform metagame app, <br /> turning your activities across <br />Web2 and Web3 games into <br /> a rewarding adventure.</>}
                         isComingSoon
                     />
                 </BentoTilt>
@@ -83,7 +83,7 @@ const Features = () => {
                         <BentoCard
                             src="videos/feature-2.mp4"
                             title={<>zig<b>m</b>a</>}
-                            description="An anime and gaming-inspired NFT collection - the IP primed for expansion."
+                            description={<>An anime and gaming-inspired <br />NFT collection - the IP primed for expansion.</>}
                             isComingSoon
                         />
                     </BentoTilt>
@@ -91,7 +91,7 @@ const Features = () => {
                         <BentoCard
                             src="videos/feature-3.mp4"
                             title={<>n<b>e</b>xus</>}
-                            description="A gamified social hub, adding a new dimension of play to social interaction for Web3 communities."
+                            description={<>A gamified social hub, <br /> adding a new dimension of play <br />to social interaction for Web3 communities.</>}
                             isComingSoon
 
                         />
@@ -100,7 +100,7 @@ const Features = () => {
                         <BentoCard
                             src="videos/feature-4.mp4"
                             title={<>az<b>u</b>l</>}
-                            description="A cross-world AI Agent - elevating your gameplay to be more fun and productive."
+                            description={<>A cross-world AI Agent <br /> - elevating your gameplay to <br /> be more fun and productive.</>}
                             isComingSoon
 
                         />
