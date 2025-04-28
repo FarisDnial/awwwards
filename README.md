@@ -1,12 +1,34 @@
-# React + Vite
+# Awwwards Winning Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A clone of an award-winning website, visually captivating and inspired by [Zentry](https://zentry.com/), featuring scroll-triggered animations, geometric transitions, engaging video storytelling, and a luxurious, modern feel. This project focuses on delivering an engaging UI/UX and smooth responsiveness, capturing the essence of what makes an Awwwards winner.
 
-Currently, two official plugins are available:
+![App Screenshot](https://github.com/FarisDnial/awwwards/blob/main/Homepage_screenshot.jpg)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
 
-## Expanding the ESLint configuration
+- **Scroll-Based Animations**
+  - Dynamic animations triggered by scrolling for a more engaging user experience.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Clip Path Shaped Animations**
+  - Unique geometric transitions using CSS clip-paths to create visually stunning effects.
+  
+- **3D Hover Effects**
+  - Interactive 3D transformations that respond to user interactions for a modern feel.
+
+- **Video Transitions**
+  - Seamlessly integrated video elements to enhance storytelling and flow.
+
+- **Smooth UI/UX**
+  - Polished interfaces with buttery-smooth interactions for an intuitive user journey.
+
+- **Completely Responsive**
+  - Flawless adaptation across all devices, ensuring a consistent experience.
+
+- and many more, including code architecture and reusability
+
+## Tech Stack
+
+- **GSAP**
+- **React.js**
+- **Tailwind CSS**
+  
